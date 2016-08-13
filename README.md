@@ -41,7 +41,7 @@ apache下载地址：
 
     2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.31.tar.gz
 
-    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.18.tar.gz
+    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.23.tar.gz
 
 nginx下载地址：
 
@@ -67,7 +67,7 @@ memcache php扩展下载地址：
     
 memcached下载地址：
 
-    http://memcached.org/files/memcached-1.4.24.tar.gz
+    http://memcached.org/files/memcached-1.4.30.tar.gz
     
 redis下载地址：
 
@@ -93,9 +93,9 @@ java JDK下载地址：
 
     1.8版本 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-    同学提供的下载地址（1.8 32位） http://pirate.oss-cn-shenzhen.aliyuncs.com/jdk-8u31-linux-i586.tar.gz
-
     1.7版本下载地址  http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+    
+    百度网盘地址： http://pan.baidu.com/s/1o8B3Hyy
 
 tomcat下载地址：
 

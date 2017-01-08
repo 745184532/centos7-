@@ -25,23 +25,23 @@ mysql下载地址：
 
     5.1_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.1/mysql-5.1.73-linux-x86_64-glibc23.tar.gz
 
-    5.5_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.52-linux2.6-x86_64.tar.gz    
+    5.5_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.54-linux2.6-x86_64.tar.gz    
 
-    5.5_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.52-linux2.6-i686.tar.gz
+    5.5_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.54-linux2.6-i686.tar.gz
 
-    5.6_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.33-linux-glibc2.5-i686.tar.gz
+    5.6_32位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.35-linux-glibc2.5-i686.tar.gz
 
-    5.6_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.33-linux-glibc2.5-x86_64.tar.gz
+    5.6_64位二进制包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.35-linux-glibc2.5-x86_64.tar.gz
 
-    5.5源码包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.52.tar.gz
+    5.5源码包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.54.tar.gz
 
-    5.6源码包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.33.tar.gz 
+    5.6源码包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.35.tar.gz 
 
 apache下载地址：
 
     2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.31.tar.gz
 
-    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.23.tar.gz
+    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.25.tar.gz
 
 nginx下载地址：
 
@@ -53,11 +53,11 @@ nginx下载地址：
 
 php下载地址：
 
-    5.6源码包： http://cn2.php.net/get/php-5.6.13.tar.bz2/from/this/mirror
+    5.6源码包： http://cn2.php.net/distributions/php-5.6.13.tar.bz2
 
-    5.5源码包： http://cn2.php.net/get/php-5.5.29.tar.bz2/from/this/mirror
+    5.5源码包： http://cn2.php.net/distributions/php-5.5.29.tar.bz2
 
-    5.4源码包： http://cn2.php.net/get/php-5.4.45.tar.bz2/from/this/mirror
+    5.4源码包： http://cn2.php.net/distributions/php-5.4.45.tar.bz2
 
     其他版本： http://php.net/releases/
 

@@ -1,4 +1,8 @@
 #resource
+访问google
+
+    http://coderschool.cn/1853.html
+
 CentOS6.8下载地址：
 
     32位 http://mirrors.sohu.com/centos/6.8/isos/i386/CentOS-6.8-i386-bin-DVD1.iso

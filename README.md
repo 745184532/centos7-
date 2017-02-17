@@ -48,7 +48,7 @@ mysql下载地址：
 
 apache下载地址：
 
-    2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.31.tar.gz
+    2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.32.tar.gz
 
     2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.25.tar.gz
 

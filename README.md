@@ -67,9 +67,9 @@ nginx下载地址：
 
 php下载地址：
 
-    5.6源码包： http://cn2.php.net/distributions/php-5.6.13.tar.bz2
+    5.6源码包： http://cn2.php.net/distributions/php-5.6.30.tar.bz2
 
-    5.5源码包： http://cn2.php.net/distributions/php-5.5.29.tar.bz2
+    5.5源码包： http://cn2.php.net/distributions/php-5.5.38.tar.bz2
 
     5.4源码包： http://cn2.php.net/distributions/php-5.4.45.tar.bz2
 

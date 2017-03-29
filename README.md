@@ -123,7 +123,9 @@ tomcat下载地址：
 
 resin下载地址：
 
-    http://caucho.com/download/resin-4.0.45.tar.gz
+    官方（很慢）：http://caucho.com/download/resin-4.0.45.tar.gz
+    
+    阿铭提供：http://a.lishiming.net/data/resin-4.0.45.tar.gz
 
 网络相关电子书
 

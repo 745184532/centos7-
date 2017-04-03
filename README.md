@@ -113,13 +113,13 @@ java JDK下载地址：
 
 tomcat下载地址：
 
-    源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-8/v8.5.9/src/apache-tomcat-8.5.9-src.tar.gz
+    源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-8/v8.5.13/src/apache-tomcat-8.5.13-src.tar.gz
 
-    二进制软件包：http://apache.fayea.com/tomcat/tomcat-8/v8.5.9/bin/apache-tomcat-8.5.9.tar.gz
+    二进制软件包：http://apache.fayea.com/tomcat/tomcat-8/v8.5.13/bin/apache-tomcat-8.5.13.tar.gz
 
-    7版本二进制：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.73/bin/apache-tomcat-7.0.73.tar.gz
+    7版本二进制：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.77/bin/apache-tomcat-7.0.77.tar.gz
 
-    7版本源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.73/src/apache-tomcat-7.0.73-src.tar.gz
+    7版本源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.77/src/apache-tomcat-7.0.77-src.tar.gz
 
 resin下载地址：
 

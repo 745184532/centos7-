@@ -120,6 +120,13 @@ tomcat下载地址：
     7版本二进制：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.77/bin/apache-tomcat-7.0.77.tar.gz
 
     7版本源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.77/src/apache-tomcat-7.0.77-src.tar.gz
+    
+tomcat连接mysql驱动JDBC下载地址：
+    
+    官方地址：https://dev.mysql.com/downloads/file/?id=468318
+    
+    下载地址：https://cdn.mysql.com//Downloads/Connector-J/mysql-connector-java-5.1.41.tar.gz
+
 
 resin下载地址：
 

@@ -17,6 +17,12 @@ CentOS6.8下载地址：
 
     64位 http://mirrors.sohu.com/centos/6.8/isos/x86_64/CentOS-6.8-x86_64-bin-DVD1.iso
 
+CentOS6.9下载地址:
+    
+    32位 http://mirrors.sohu.com/centos/6.9/isos/i386/CentOS-6.9-i386-bin-DVD1.iso
+
+    64位 http://mirrors.sohu.com/centos/6.9/isos/x86_64/CentOS-6.9-x86_64-bin-DVD1.iso
+
 centos6.5
 
     64位下载地址：http://pan.baidu.com/s/1sl5r02T

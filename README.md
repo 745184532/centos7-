@@ -5,11 +5,13 @@
     
 CentOS7.3下载地址：
 
-    http://mirrors.sohu.com/centos/7.3.1611/isos/x86_64/CentOS-7-x86_64-DVD-1611.iso
+    64位  http://mirrors.sohu.com/centos/7.3.1611/isos/x86_64/CentOS-7-x86_64-DVD-1611.iso
+    
+    32位  http://mirror.centos.org/altarch/7.3.1611/isos/i386/CentOS-7-i386-DVD-1611.iso
     
 CentOS7.0下载：
     
-    https://pan.baidu.com/s/1nvc9gRR
+    64位 https://pan.baidu.com/s/1nvc9gRR
 
 CentOS6.8下载地址：
 

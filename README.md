@@ -38,6 +38,10 @@ centos老版本下载地址：
 vmware10下载地址：
 
     http://pan.baidu.com/s/1eQxOVPC
+    
+puTTY官方下载地址：
+
+    https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 mysql下载地址：
 

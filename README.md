@@ -163,6 +163,9 @@ python基础教程
 
     http://pan.baidu.com/s/1z0Yx4
     
+    在线版 http://code.ziqiangxuetang.com/python/python-tutorial.html
+    
+    
 django基础教程
     
     http://djangobook.py3k.cn/2.0/

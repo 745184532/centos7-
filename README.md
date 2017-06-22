@@ -162,3 +162,9 @@ shell相关电子书
 python基础教程
 
     http://pan.baidu.com/s/1z0Yx4
+    
+django基础教程
+    
+    http://djangobook.py3k.cn/2.0/
+    
+    http://code.ziqiangxuetang.com/django/django-tutorial.html

@@ -43,7 +43,7 @@ puTTY官方下载地址：
 
     https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-mysql下载地址：
+MySQL下载地址：
 
     5.1 32位二进制包： http://mirrors.sohu.com/mysql/MySQL-5.1/mysql-5.1.73-linux-i686-glibc23.tar.gz
 
@@ -60,8 +60,15 @@ mysql下载地址：
     5.5源码包：http://mirrors.sohu.com/mysql/MySQL-5.5/mysql-5.5.54.tar.gz
 
     5.6源码包：http://mirrors.sohu.com/mysql/MySQL-5.6/mysql-5.6.35.tar.gz 
+    
+MariaDB下载地址：
+    
+    10.2.6 64位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
+    
+    10.2.6 32位二进制包 https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
+    
 
-apache下载地址：
+Apache下载地址：
 
     2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.32.tar.gz
 
@@ -72,7 +79,7 @@ apache下载地址：
     apr-util: http://mirrors.hust.edu.cn/apache/apr/apr-util-1.5.4.tar.gz 
     
 
-nginx下载地址：
+Nginx下载地址：
 
     1.8源码包： http://nginx.org/download/nginx-1.8.0.tar.gz
 
@@ -80,7 +87,8 @@ nginx下载地址：
 
     1.4源码包： http://nginx.org/download/nginx-1.4.7.tar.gz
 
-php下载地址：
+
+PHP下载地址：
 
     5.6源码包： http://cn2.php.net/distributions/php-5.6.30.tar.bz2
 

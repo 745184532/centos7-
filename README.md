@@ -123,9 +123,9 @@ mongodb php扩展下载地址：
     
 pureftp下载地址：
 
-    https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.43.tar.bz2
+    https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.45.tar.bz2
 
-    https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.43.tar.gz
+    https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.45.tar.gz
 
 
 java JDK下载地址：

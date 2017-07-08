@@ -72,7 +72,7 @@ Apache下载地址：
 
     2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.32.tar.gz
 
-    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.25.tar.gz
+    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.26.tar.gz
     
     apr: http://mirrors.hust.edu.cn/apache/apr/apr-1.5.2.tar.gz
     

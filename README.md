@@ -101,6 +101,10 @@ PHP下载地址：
 
     其他版本： http://php.net/releases/
 
+xftp下载地址：
+
+    链接：http://pan.baidu.com/s/1eSMSLN0 密码：8os4
+
 memcache php扩展下载地址：
 
     http://www.apelearn.com/bbs/data/attachment/forum/memcache-2.2.3.tgz

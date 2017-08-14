@@ -74,9 +74,9 @@ Apache下载地址：
 
     2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.27.tar.gz
     
-    apr: http://mirrors.hust.edu.cn/apache/apr/apr-1.5.2.tar.gz
+    apr: http://mirrors.hust.edu.cn/apache/apr/apr-1.6.2.tar.gz
     
-    apr-util: http://mirrors.hust.edu.cn/apache/apr/apr-util-1.5.4.tar.gz 
+    apr-util: http://mirrors.hust.edu.cn/apache/apr/apr-util-1.6.0.tar.gz 
     
 
 Nginx下载地址：

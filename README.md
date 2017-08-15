@@ -142,9 +142,9 @@ java JDK下载地址：
 
 tomcat下载地址：
 
-    源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-8/v8.5.16/src/apache-tomcat-8.5.16-src.tar.gz
+    源码包：http://mirrors.cnnic.cn/apache/tomcat/tomcat-8/v8.5.20/src/apache-tomcat-8.5.20-src.tar.gz
 
-    二进制软件包：http://apache.fayea.com/tomcat/tomcat-8/v8.5.16/bin/apache-tomcat-8.5.16.tar.gz
+    二进制软件包：http://apache.fayea.com/tomcat/tomcat-8/v8.5.20/bin/apache-tomcat-8.5.20.tar.gz
 
     7版本二进制：http://mirrors.cnnic.cn/apache/tomcat/tomcat-7/v7.0.79/bin/apache-tomcat-7.0.79.tar.gz
 

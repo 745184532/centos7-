@@ -185,3 +185,7 @@ django基础教程
     http://djangobook.py3k.cn/2.0/
     
     http://code.ziqiangxuetang.com/django/django-tutorial.html
+    
+iTop 下载地址
+
+    https://jaist.dl.sourceforge.net/project/itop/itop/2.3.4/iTop-2.3.4-3302.zip

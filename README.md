@@ -70,7 +70,7 @@ MariaDB下载地址：
 
 Apache下载地址：
 
-    2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.32.tar.gz
+    2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.34.tar.gz
 
     2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.27.tar.gz
     

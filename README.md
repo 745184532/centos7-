@@ -76,7 +76,7 @@ Apache下载地址：
     
     apr: http://mirrors.hust.edu.cn/apache/apr/apr-1.6.2.tar.gz
     
-    apr-util: http://mirrors.hust.edu.cn/apache/apr/apr-util-1.6.0.tar.gz 
+    apr-util: http://mirrors.hust.edu.cn/apache/apr/apr-util-1.6.0.tar.bz2 
     
 
 Nginx下载地址：

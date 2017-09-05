@@ -162,6 +162,12 @@ resin下载地址：
     官方（很慢）：http://caucho.com/download/resin-4.0.45.tar.gz
     
     阿铭提供：http://a.lishiming.net/data/resin-4.0.45.tar.gz
+    
+
+zabbix下载
+  
+    官方：https://www.zabbix.com/download
+    
 
 网络相关电子书
 

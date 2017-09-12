@@ -13,11 +13,6 @@ CentOS7.0下载：
     
     64位 https://pan.baidu.com/s/1nvc9gRR
 
-CentOS6.8下载地址：
-
-    32位 http://mirrors.sohu.com/centos/6.8/isos/i386/CentOS-6.8-i386-bin-DVD1.iso
-
-    64位 http://mirrors.sohu.com/centos/6.8/isos/x86_64/CentOS-6.8-x86_64-bin-DVD1.iso
 
 CentOS6.9下载地址:
     

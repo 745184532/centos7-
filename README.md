@@ -67,11 +67,11 @@ Apache下载地址：
 
     2.2源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.2.34.tar.gz
 
-    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.27.tar.gz
+    2.4源码包： http://mirrors.cnnic.cn/apache/httpd/httpd-2.4.29.tar.gz
     
-    apr: http://mirrors.cnnic.cn/apache/apr/apr-1.6.2.tar.gz
+    apr: http://mirrors.cnnic.cn/apache/apr/apr-1.6.3.tar.gz
     
-    apr-util: http://mirrors.cnnic.cn/apache/apr/apr-util-1.6.0.tar.bz2 
+    apr-util: http://mirrors.cnnic.cn/apache/apr/apr-util-1.6.1.tar.bz2 
     
 
 Nginx下载地址：

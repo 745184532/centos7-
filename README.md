@@ -6,6 +6,8 @@
 CentOS7.4下载地址：
 
     64位  http://mirrors.sohu.com/centos/7.4.1708/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso
+
+    或者 http://mirrors.163.com/centos/7.4.1708/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso 
     
     32位[如果你能安装64位，请不要下载此版本，很多问题]  http://mirror.centos.org/altarch/7.4.1708/isos/i386/CentOS-7-i386-DVD-1708.iso （安装此镜像，需要创建64位的centos虚拟机）
     

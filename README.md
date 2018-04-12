@@ -139,13 +139,13 @@ java JDK下载地址：
 
 tomcat下载地址：
 
-    源码包：https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.24/src/apache-tomcat-8.5.24-src.tar.gz
+    源码包：https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.30/src/apache-tomcat-8.5.30-src.tar.gz
 
-    二进制软件包：https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.24/bin/apache-tomcat-8.5.24.tar.gz
+    二进制软件包：https://mirrors.tuna.tsinghua.edu.cn/apache/tomcat/tomcat-8/v8.5.30/bin/apache-tomcat-8.5.30.tar.gz
 
-    7版本二进制：http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.82/bin/apache-tomcat-7.0.82.tar.gz
+    7版本二进制：http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.85/bin/apache-tomcat-7.0.85.tar.gz
 
-    7版本源码包：http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.82/src/apache-tomcat-7.0.82-src.tar.gz
+    7版本源码包：http://mirrors.hust.edu.cn/apache/tomcat/tomcat-7/v7.0.85/src/apache-tomcat-7.0.85-src.tar.gz
     
 tomcat连接mysql驱动JDBC下载地址：
     
